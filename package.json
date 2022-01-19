@@ -1,0 +1,13 @@
+{
+  "name": "relay-13-scalar-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "relay-compiler": "^13.0.1",
+    "relay-compiler-language-typescript": "^15.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
